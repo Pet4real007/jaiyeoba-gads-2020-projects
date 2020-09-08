@@ -1,1 +1,1 @@
-# jaiyeoba-gads-2020-projects
+# Jaiyeoba's GADS Project Submissions
